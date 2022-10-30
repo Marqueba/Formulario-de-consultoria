@@ -1,5 +1,5 @@
 # Formulário de Consultoria
-Criação de Cadastro de consultas utilizando Tkinder e SQLite.
+Criação de Cadastro de consultas utilizando Tkinter e SQLite.
 
 ![preview](.gihub/preview.png)
 
